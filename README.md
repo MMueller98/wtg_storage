@@ -22,7 +22,7 @@
 <br>
 
 ## Datenbank
-items:<br>
+costumes:<br>
 <ul>
 	<li>id PRIMARY KEY</li>
 	<li>description</li>
